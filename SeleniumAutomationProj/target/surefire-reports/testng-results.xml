@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89074" started-at="2017-06-07T01:57:35Z" finished-at="2017-06-07T01:59:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89074" started-at="2017-06-07T01:57:35Z" finished-at="2017-06-07T01:59:04Z">
+      <class name="SeleniumAutomationPackage.TC001">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:SeleniumAutomationPackage.TC001@42d3bd8b]" name="testCase1" duration-ms="26889" started-at="2017-06-06T21:58:37Z" finished-at="2017-06-06T21:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- SeleniumAutomationPackage.TC001 -->
+      <class name="SeleniumAutomationPackage.TC003">
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:SeleniumAutomationPackage.TC003@dfd3711]" name="testCase3" duration-ms="29422" started-at="2017-06-06T21:58:08Z" finished-at="2017-06-06T21:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+      </class> <!-- SeleniumAutomationPackage.TC003 -->
+      <class name="SeleniumAutomationPackage.TC002">
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:SeleniumAutomationPackage.TC002@73f792cf]" name="testCase2" duration-ms="32753" started-at="2017-06-06T21:57:35Z" finished-at="2017-06-06T21:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- SeleniumAutomationPackage.TC002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
