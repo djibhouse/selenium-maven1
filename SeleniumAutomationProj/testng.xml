@@ -3,9 +3,12 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="SeleniumAutomationPackage.TC001"/>
       <class name="SeleniumAutomationPackage.TC002"/>
       <class name="SeleniumAutomationPackage.TC003"/>
-      <class name="SeleniumAutomationPackage.TC001"/>
+      <class name="SeleniumAutomationPackage.TC004"/>
+      <class name="SeleniumAutomationPackage.TC005"/>
+      <class name="SeleniumAutomationPackage.TC006"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
